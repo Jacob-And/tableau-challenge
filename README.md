@@ -1,5 +1,5 @@
 # tableau-challenge
-https://public.tableau.com/app/profile/jacob.anderson2507/viz/TableauChallenge_17024457932610/StartTimeDashboard?publish=yes
+https://public.tableau.com/app/profile/jacob.anderson2507/viz/TableauChallenge_17024457932610/Story1?publish=yes
 
 # Analysis
 
